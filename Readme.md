@@ -29,6 +29,7 @@ The dashboard tracks the following important healthcare metrics:
 -Average Wait Time
 
 -Patient Satisfaction Score
+
 -Number of Patients Referred
 
 -Admission vs Non-Admission Rate
@@ -119,7 +120,6 @@ Interactive Data Visualization
 
 📂 Project Structure
 Hospital-Emergency-Room-Dashboard
-
 ├── Dashboard
 │   └── Hospital_ER_Dashboard.pbix
 │
@@ -129,6 +129,15 @@ Hospital-Emergency-Room-Dashboard
 │
 └── README.md
 
+📷 Dashboard Preview
+
+Monthly Dashboard
+
+https://github.com/simran0424/Hospital-Emergency-Care-Analytics/blob/main/Images/Monthly_view_tab.png
+
+Patient Details Dashboard
+
+https://github.com/simran0424/Hospital-Emergency-Care-Analytics/blob/main/Images/Patient_details_tab.png
 
 🚀 How to Use
 
@@ -136,7 +145,7 @@ Clone or download this repository.
 
 Open the .pbix file using Power BI Desktop.
 
-Explore the dashboard using filters and slicers.
+Explore the dashboard using filters and slicers
 
 Analyze patient trends and emergency department performance.
 
@@ -145,9 +154,6 @@ Analyze patient trends and emergency department performance.
 ✔ Interactive Healthcare Dashboard
 
 ✔ Real-world Emergency Room Analytics
-
 ✔ Patient Demographics Analysis
-
 ✔ Operational Insights for Hospitals
-
 ✔ Data-Driven Healthcare Decision Support
