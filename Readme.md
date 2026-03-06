@@ -1,12 +1,12 @@
-🏥 Hospital Emergency Room Dashboard
+🏥 *Hospital Emergency Room Dashboard*
 
-📊 Project Overview
+*📊 Project Overview*
 
 The Hospital Emergency Room Dashboard is an interactive Power BI dashboard designed to analyze emergency department operations and patient flow. The dashboard provides insights into patient visits, wait times, admissions, and referral patterns to help hospital management improve operational efficiency and patient care.
 
 This project demonstrates how data visualization and analytics can support healthcare decision-making by transforming raw patient data into meaningful insights.
 
-🎯 Problem Statement
+*🎯 Problem Statement*
 
 Emergency departments often experience challenges such as:
 
@@ -20,7 +20,7 @@ Emergency departments often experience challenges such as:
 
 This dashboard helps hospital administrators and healthcare professionals monitor key emergency room metrics and optimize hospital operations using data-driven insights.
 
-📈 Key Performance Indicators (KPIs)
+*📈 Key Performance Indicators (KPIs)*
 
 The dashboard tracks the following important healthcare metrics:
 
@@ -38,9 +38,9 @@ The dashboard tracks the following important healthcare metrics:
 
 These KPIs provide a quick overview of emergency room performance.
 
-📊 Dashboard Features
+📊 *Dashboard Features*
 
-1️⃣ Monthly View
+1️⃣ *Monthly View*
 
 The Monthly View provides a high-level overview of emergency room activity.
 
@@ -64,7 +64,7 @@ Patient Visits by Day and Hour Heatmap
 
 These visuals help identify patterns such as peak hours, patient demographics, and department workload.
 
-2️⃣ Patient Details View
+2️⃣ *Patient Details View*
 
 The Patient Details section provides a detailed patient-level dataset for deeper analysis.
 
@@ -90,7 +90,7 @@ Admission Status
 
 Users can filter the data by date range, year, and month to analyze patient records.
 
-📊 Insights Provided by the Dashboard
+📊 *Insights Provided by the Dashboard*
 
 This dashboard helps answer important healthcare questions such as:
 
@@ -108,7 +108,7 @@ What is the admission vs non-admission rate?
 
 These insights help hospitals optimize resource allocation and improve patient care.
 
-🛠️ Tools & Technologies Used
+🛠️ *Tools & Technologies Used*
 
 Power BI – Dashboard creation and visualization
 
@@ -117,18 +117,8 @@ Data Cleaning & Transformation
 Healthcare Data Analysis
 
 Interactive Data Visualization
-📂 Project Structure
-Hospital-Emergency-Room-Dashboard
-├── Dashboard
-│   └── Hospital_ER_Dashboard.pbix
-│
-├── Images
-│   ├── monthly_view_dashboard.png
-│   └── patient_details_dashboard.png
-│
-└── README.md
 
-📷 Dashboard Preview
+📷 *Dashboard Preview*
 
 Monthly Dashboard
 
@@ -138,21 +128,24 @@ Patient Details Dashboard
 
 https://github.com/simran0424/Hospital-Emergency-Care-Analytics/blob/main/Images/Patient_details_tab.png
 
-🚀 How to Use
+🚀 *How to Use*
 
 Clone or download this repository.
 
 Open the .pbix file using Power BI Desktop.
 
-Explore the dashboard using filters and slicers
+Explore the dashboard using filters and slicers.
 
 Analyze patient trends and emergency department performance.
 
-📌 Project Highlights
+📌 *Project Highlights*
 
 ✔ Interactive Healthcare Dashboard
 
 ✔ Real-world Emergency Room Analytics
+
 ✔ Patient Demographics Analysis
+
 ✔ Operational Insights for Hospitals
+
 ✔ Data-Driven Healthcare Decision Support
