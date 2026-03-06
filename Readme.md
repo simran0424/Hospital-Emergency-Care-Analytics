@@ -1,4 +1,5 @@
 🏥 Hospital Emergency Room Dashboard
+
 📊 Project Overview
 
 The Hospital Emergency Room Dashboard is an interactive Power BI dashboard designed to analyze emergency department operations and patient flow. The dashboard provides insights into patient visits, wait times, admissions, and referral patterns to help hospital management improve operational efficiency and patient care.
@@ -30,6 +31,7 @@ The dashboard tracks the following important healthcare metrics:
 These KPIs provide a quick overview of emergency room performance.
 
 📊 Dashboard Features
+
 1️⃣ Monthly View
 
 The Monthly View provides a high-level overview of emergency room activity.
@@ -78,28 +80,31 @@ These insights help hospitals optimize resource allocation and improve patient c
 🛠️ Tools & Technologies Used
 
 Power BI – Dashboard creation and visualization
+
 Data Cleaning & Transformation
+
 Healthcare Data Analysis
+
 Interactive Data Visualization
 
 📂 Project Structure
 Hospital-Emergency-Room-Dashboard
+
 ├── Dashboard
+
 │   └── Hospital_ER_Dashboard.pbix
+
 │
+
 ├── Images
+
 │   ├── monthly_view_dashboard.png
+
 │   └── patient_details_dashboard.png
+
 │
 └── README.md
-📷 Dashboard Preview
-Monthly Dashboard
 
-(Add screenshot here)
-
-Patient Details Dashboard
-
-(Add screenshot here)
 
 🚀 How to Use
 
