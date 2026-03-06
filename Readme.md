@@ -50,7 +50,7 @@ The Monthly View provides a high-level overview of emergency room activity.
 
 -Admission Status Analysis
 
-=Patient Distribution by Age Group
+-Patient Distribution by Age Group
 
 -Patient Distribution by Gender
 
@@ -110,7 +110,9 @@ These insights help hospitals optimize resource allocation and improve patient c
 
 🛠️ Tools & Technologies Used
 
--Power BI – Dashboard creation and visualization
+-Power BI 
+
+– Dashboard creation and visualization
 
 -Data Cleaning & Transformation
 
