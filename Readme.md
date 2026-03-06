@@ -11,8 +11,11 @@ This project demonstrates how data visualization and analytics can support healt
 Emergency departments often experience challenges such as:
 
 -Long patient waiting times
+
 -Overcrowding during peak hours
+
 -Inefficient patient flow
+
 -Difficulty identifying trends in admissions and referrals
 
 This dashboard helps hospital administrators and healthcare professionals monitor key emergency room metrics and optimize hospital operations using data-driven insights.
@@ -22,10 +25,14 @@ This dashboard helps hospital administrators and healthcare professionals monito
 The dashboard tracks the following important healthcare metrics:
 
 -Total Number of Patients
+
 -Average Wait Time
+
 -Patient Satisfaction Score
 -Number of Patients Referred
+
 -Admission vs Non-Admission Rate
+
 -Patients Seen Within Target Time (30 minutes)
 
 These KPIs provide a quick overview of emergency room performance.
@@ -37,13 +44,21 @@ These KPIs provide a quick overview of emergency room performance.
 The Monthly View provides a high-level overview of emergency room activity.
 
 Key Visualizations
+
 KPI Cards (Patients, Wait Time, Satisfaction Score)
+
 Admission Status Analysis
+
 Patient Distribution by Age Group
+
 Patient Distribution by Gender
+
 Patients Seen Within 30 Minutes
+
 Department Referral Analysis
+
 Patient Distribution by Race
+
 Patient Visits by Day and Hour Heatmap
 
 These visuals help identify patterns such as peak hours, patient demographics, and department workload.
@@ -53,14 +68,23 @@ These visuals help identify patterns such as peak hours, patient demographics, a
 The Patient Details section provides a detailed patient-level dataset for deeper analysis.
 
 Included Fields
+
 Patient ID
+
 Patient Name
+
 Gender
+
 Age
+
 Admission Date
+
 Race
+
 Wait Time
+
 Department Referral
+
 Admission Status
 
 Users can filter the data by date range, year, and month to analyze patient records.
@@ -70,11 +94,17 @@ Users can filter the data by date range, year, and month to analyze patient reco
 This dashboard helps answer important healthcare questions such as:
 
 What is the average waiting time for ER patients?
+
 What percentage of patients are seen within 30 minutes?
+
 Which age groups visit the ER most frequently?
+
 What are the peak hours and busiest days in the emergency department?
+
 Which departments receive the most patient referrals?
+
 What is the admission vs non-admission rate?
+
 These insights help hospitals optimize resource allocation and improve patient care.
 
 🛠️ Tools & Technologies Used
@@ -91,17 +121,11 @@ Interactive Data Visualization
 Hospital-Emergency-Room-Dashboard
 
 ├── Dashboard
-
 │   └── Hospital_ER_Dashboard.pbix
-
 │
-
 ├── Images
-
 │   ├── monthly_view_dashboard.png
-
 │   └── patient_details_dashboard.png
-
 │
 └── README.md
 
@@ -119,7 +143,11 @@ Analyze patient trends and emergency department performance.
 📌 Project Highlights
 
 ✔ Interactive Healthcare Dashboard
+
 ✔ Real-world Emergency Room Analytics
+
 ✔ Patient Demographics Analysis
+
 ✔ Operational Insights for Hospitals
+
 ✔ Data-Driven Healthcare Decision Support
